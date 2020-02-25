@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="recent_news">Da Nang International Fireworks Festival 2017</string>
+    <string name="teste" />
+    <string name="todo">TODO</string>
+    <string name="event_name">Event name</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="event_adress">Event adress</string>
+    <string name="event_description">Event description</string>
+    <string name="event_image">Event image</string>
+    <string name="success_login_msg">Checkin, efetuado !</string>
+    <string name="error_login_msg">Erro no checkin</string>
+    <string name="informe_seus_dados">Informe seus dados</string>
+    <string name="email">Email</string>
+    <string name="name">Nome</string>
+    <string name="sent">Enviar</string>
+    <string name="out">OUT</string>
+    <string name="_25">25</string>
+    <string name="checkin">Checkin</string>
+    <string name="event_local">Event local</string>
+    <string name="eventos_disponiveis">Eventos Disponíveis</string>
+    <string name="valor">Valor</string>
+</resources>
