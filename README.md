@@ -15,4 +15,6 @@
 - **_GoogleFonts_**: Para algumas fontes do projeto
 
 ## Desafios encontrados
-Com certeza um dos maiores desafios foi ter que realizar tudo em um periodo curto de tempo (2 dias), embora eu venha do Java, que facilita o aprendizado do Kotlin, até entender a linguagem e aplicar ela do jeito certo pode levar um tempo, mas fora isso foi, um projeto bem divertido de se realizar.
+Com certeza um dos maiores desafios foi ter que realizar tudo em um periodo curto de tempo (2 dias), embora eu venha do Java, que facilita o aprendizado do Kotlin, até entender a linguagem e aplicar ela do jeito certo pode levar um tempo, mas fora isso foi, um projeto bem divertido de se realizar
+
+- Em datas do evento, vi que a API mandava datas que não faziam sentido, então resolvi colocar uma aleatória para preencher o layout apenas.
